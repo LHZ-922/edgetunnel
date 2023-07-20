@@ -3,7 +3,7 @@
 ##  说明
 在线随机UUID生成器
 https://1024tools.com/uuid
-
+https://zip.baipiao.eu.org
 ## 修改proxyIP
 (推荐：113.64.186.198或者103.200.112.108或者199.15.76.35)
 
