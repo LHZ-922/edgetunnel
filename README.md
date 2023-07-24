@@ -2,6 +2,7 @@
 
 ##  说明
 在线随机UUID生成器
+
 https://1024tools.com/uuid
 
 https://zip.baipiao.eu.org
@@ -40,4 +41,9 @@ cdn.anycast.eu.org（香港日本新加坡加速CDN）解析出来的具体IP域
  cdn.anycast.eu.org
 
 ## 营商优选IP，根据自身运营商选择延迟最低IP
+
+Cloudflare支持的HTTP端口：80，8080，8880，2052，2082，2086，2095。
+
+Cloudflare支持的HTTPS端口：443，2053，2083，2087，2096，8443。
+
 https://stock.hostmonit.com/CloudFlareYes
