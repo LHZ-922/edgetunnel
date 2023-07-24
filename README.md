@@ -3,7 +3,17 @@
 ##  说明
 在线随机UUID生成器
 https://1024tools.com/uuid
+
 https://zip.baipiao.eu.org
+
+CDN优选工具：https://bulianglin.com/archives/cdn.html
+
+节点测速工具：https://github.com/bulianglin/demo
+
+搜索引擎：https://fofa.info
+
+临时邮箱：http://24mail.chacuo.net
+
 ## 修改proxyIP
 (推荐：113.64.186.198或者103.200.112.108或者199.15.76.35)
 
