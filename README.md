@@ -8,8 +8,6 @@ https://zip.baipiao.eu.org
 
 CDN优选工具：https://bulianglin.com/archives/cdn.html
 
-节点测速工具：https://github.com/bulianglin/demo
-
 搜索引擎：https://fofa.info
 
 临时邮箱：http://24mail.chacuo.net
